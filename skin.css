@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(https://i.imgur.com/PfOZWby.png);
+  background: center no-repeat url("https://i.imgur.com/PfOZWby.png");
 }
 
 .logo {
-  background-image: url(https://i.imgur.com/CKauTOb.png);
+  background-image: url("https://i.imgur.com/CKauTOb.png");
 }
 
 .progressBar {
